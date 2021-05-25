@@ -11,5 +11,8 @@
     "React"
   ],
   "author": "KRSBX",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
